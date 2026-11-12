@@ -1,2 +1,2 @@
 # apnacollegedemo
-this is mt first project
+this is my first project
